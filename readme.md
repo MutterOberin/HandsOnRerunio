@@ -1,6 +1,14 @@
-## Hands on Rerun
+# Hands on Rerun
 
-A small collection of tests and examples of a hands on session with rerun. 
+A small collection of tests and examples of a hands on session with [Rerun.io](https://rerun.io/).
+
+## How to get it to work
+
+1) Install Python 3.8+
+2) Install Rerun via pip3 install rerun-sdk
+3) Execute scripts
+
+## Examples and TestCases
 
 ### Example 1: Simple Dots
 
