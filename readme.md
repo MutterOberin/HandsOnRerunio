@@ -5,7 +5,7 @@ A small collection of tests and examples of a hands on session with [Rerun.io](h
 ## How to get it to work
 
 1) Install Python 3.8+
-2) Install Rerun via pip3 install rerun-sdk
+2) Install Rerun via ``pip3 install rerun-sdk``
 3) Execute scripts
 
 ## Examples and TestCases
@@ -18,4 +18,4 @@ A simple sin curve colored from green to red using rerun.log with Points3D
 
 Similar to example 1 but as time series.
 
-![image](https://github.com/user-attachments/assets/25209caa-dbf1-42ae-b3d9-30e320e264fb)
+![image](images/example_2.png)
